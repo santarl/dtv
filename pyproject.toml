@@ -7,4 +7,4 @@ requires-python = ">=3.13"
 dependencies = []
 
 [project.scripts]
-dtv = "srv.dtv:main"
+dtv = "dtv.dtv:main"
