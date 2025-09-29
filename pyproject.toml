@@ -1,0 +1,10 @@
+[project]
+name = "dtv"
+version = "0.1.0"
+description = "debrid terminal viewer"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+dtv = "srv.dtv:main"
